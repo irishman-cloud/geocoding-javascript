@@ -1,4 +1,4 @@
-# Irishman Geocoding's Javascript SDK
+# ![Irishman Geocoding's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/geocoding-javascript/master/.github/banner.svg)
 
 Convert between coords and addresses.
 
