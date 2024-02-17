@@ -1,6 +1,9 @@
 # ![Irishman Geocoding's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/geocoding-javascript/master/.github/banner.svg)
 
-Convert between coords and addresses.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/geocoding-javascript)](https://github.com/irishman-cloud/geocoding-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/geocoding-javascript)](https://github.com/irishman-cloud/geocoding-javascript/issues)
+
+<b align="center">Convert between coords and addresses.</b>
 
 ## Table of Contents
 
